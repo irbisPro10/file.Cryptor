@@ -20,9 +20,6 @@ namespace FileCrypt_lite
             InitializeComponent();
         }
 
-
-        public bool list;
-
         private void button2_Click(object sender, EventArgs e)
         {
             this.Close();
@@ -31,7 +28,6 @@ namespace FileCrypt_lite
         private void button1_Click(object sender, EventArgs e)
         {
         
-            
                 AES aesCrypt = new AES();
                 string password = aesCrypt.DecryptPassword(File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + "FileCrypt_lite.loc"));
                 if (textBox2.Text.Length < 4) { MessageBox.Show("Password lenth should have a lenngh more then 3", "Error"); textBox2.Text = null; }
@@ -59,18 +55,8 @@ namespace FileCrypt_lite
                     }
 
                     MessageBox.Show("Your password successfully changed", "Success!");
-                }
-
-            
-
-                     
+                }       
         }
-
-        private void Form2_Load(object sender, EventArgs e)
-        {
-
-        }
-
 
     }
 }

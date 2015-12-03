@@ -37,13 +37,9 @@ namespace FileCrypt_lite
         private void button1_Click(object sender, EventArgs e)
         {
             AES aesCrypt = new AES();
-
-       
-                
                 string pas = aesCrypt.DecryptPassword(File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + "FileCrypt_lite.loc"));
                 if (pas == textBox1.Text)
                 {
-                    MF.password = pas;
                     MF.Show();
                     this.Hide();
                 }
@@ -65,7 +61,6 @@ namespace FileCrypt_lite
             
         }
 
-        
         private void button2_Click(object sender, EventArgs e)
         {
             Application.Exit();

@@ -169,8 +169,6 @@ namespace FileCrypt_lite
             Application.Exit();
         }
 
-        public string password;
-
         private void button3_Click(object sender, EventArgs e)
         {
             if (listView1.SelectedIndices.Count <= 0)
@@ -242,6 +240,11 @@ namespace FileCrypt_lite
         private void deleteToolStripMenuItem_Click(object sender, EventArgs e)
         {
             button2_Click(sender, e);
+        }
+
+        private void helpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("This program made for protecting your important files \n Plese, do not use short passwords, and passwords containing iformation about yourself.","About");
         }
 
     }

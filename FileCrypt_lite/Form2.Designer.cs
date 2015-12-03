@@ -116,7 +116,6 @@
             this.MaximizeBox = false;
             this.Name = "Form2";
             this.Text = "Change Password";
-            this.Load += new System.EventHandler(this.Form2_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
