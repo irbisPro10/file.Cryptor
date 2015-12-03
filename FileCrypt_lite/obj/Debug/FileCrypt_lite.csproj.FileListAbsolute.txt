@@ -1,0 +1,25 @@
+C:\Users\Andew\Documents\GitHub\FileCrypt_lite\FileCrypt_lite\bin\Debug\FileCrypt_lite.exe.config
+C:\Users\Andew\Documents\GitHub\FileCrypt_lite\FileCrypt_lite\bin\Debug\FileCrypt_lite.exe
+C:\Users\Andew\Documents\GitHub\FileCrypt_lite\FileCrypt_lite\obj\Debug\FileCrypt_lite.Form0.resources
+C:\Users\Andew\Documents\GitHub\FileCrypt_lite\FileCrypt_lite\obj\Debug\FileCrypt_lite.Form1.resources
+C:\Users\Andew\Documents\GitHub\FileCrypt_lite\FileCrypt_lite\obj\Debug\FileCrypt_lite.Form2.resources
+C:\Users\Andew\Documents\GitHub\FileCrypt_lite\FileCrypt_lite\obj\Debug\FileCrypt_lite.Properties.Resources.resources
+C:\Users\Andew\Documents\GitHub\FileCrypt_lite\FileCrypt_lite\obj\Debug\FileCrypt_lite.csproj.GenerateResource.Cache
+C:\Users\Andew\Documents\GitHub\FileCrypt_lite\FileCrypt_lite\obj\Debug\FileCrypt_lite.exe
+C:\Users\Andew\Documents\GitHub\FileCrypt_lite\FileCrypt_lite\obj\Debug\FileCrypt_lite.pdb
+C:\Users\Andew\Documents\GitHub\FileCrypt_lite\FileCrypt_lite\bin\Debug\FileCrypt_lite.pdb
+C:\Users\Andew\Documents\GitHub\FileCrypt_lite\FileCrypt_lite\obj\Debug\FileCrypt_lite.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\File Cryptor\FileCrypt_lite\bin\Debug\FileCrypt_lite.exe.config
+C:\Program Files (x86)\File Cryptor\FileCrypt_lite\obj\Debug\FileCrypt_lite.exe
+C:\Program Files (x86)\File Cryptor\FileCrypt_lite\obj\Debug\FileCrypt_lite.pdb
+C:\Users\Andew\Documents\File Cryptor\FileCrypt_lite\bin\Debug\FileCrypt_lite.exe.config
+C:\Users\Andew\Documents\File Cryptor\FileCrypt_lite\obj\Debug\FileCrypt_lite.exe
+C:\Users\Andew\Documents\File Cryptor\FileCrypt_lite\obj\Debug\FileCrypt_lite.pdb
+C:\Users\Andew\Documents\File Cryptor\FileCrypt_lite\bin\Debug\FileCrypt_lite.exe
+C:\Users\Andew\Documents\File Cryptor\FileCrypt_lite\bin\Debug\FileCrypt_lite.pdb
+C:\Users\Andew\Documents\File Cryptor\FileCrypt_lite\obj\Debug\FileCrypt_lite.csprojResolveAssemblyReference.cache
+C:\Users\Andew\Documents\File Cryptor\FileCrypt_lite\obj\Debug\FileCrypt_lite.Form0.resources
+C:\Users\Andew\Documents\File Cryptor\FileCrypt_lite\obj\Debug\FileCrypt_lite.Form1.resources
+C:\Users\Andew\Documents\File Cryptor\FileCrypt_lite\obj\Debug\FileCrypt_lite.Form2.resources
+C:\Users\Andew\Documents\File Cryptor\FileCrypt_lite\obj\Debug\FileCrypt_lite.Properties.Resources.resources
+C:\Users\Andew\Documents\File Cryptor\FileCrypt_lite\obj\Debug\FileCrypt_lite.csproj.GenerateResource.Cache

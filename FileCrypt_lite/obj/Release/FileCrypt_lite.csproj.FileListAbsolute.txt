@@ -1,0 +1,14 @@
+C:\Program Files (x86)\File Cryptor\FileCrypt_lite\bin\Release\FileCrypt_lite.exe.config
+C:\Program Files (x86)\File Cryptor\FileCrypt_lite\bin\Release\FileCrypt_lite.exe
+C:\Program Files (x86)\File Cryptor\FileCrypt_lite\bin\Release\FileCrypt_lite.pdb
+C:\Program Files (x86)\File Cryptor\FileCrypt_lite\obj\Release\FileCrypt_lite.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\File Cryptor\FileCrypt_lite\obj\Release\FileCrypt_lite.Form0.resources
+C:\Program Files (x86)\File Cryptor\FileCrypt_lite\obj\Release\FileCrypt_lite.Form1.resources
+C:\Program Files (x86)\File Cryptor\FileCrypt_lite\obj\Release\FileCrypt_lite.Form2.resources
+C:\Program Files (x86)\File Cryptor\FileCrypt_lite\obj\Release\FileCrypt_lite.Properties.Resources.resources
+C:\Program Files (x86)\File Cryptor\FileCrypt_lite\obj\Release\FileCrypt_lite.csproj.GenerateResource.Cache
+C:\Program Files (x86)\File Cryptor\FileCrypt_lite\obj\Release\FileCrypt_lite.exe
+C:\Program Files (x86)\File Cryptor\FileCrypt_lite\obj\Release\FileCrypt_lite.pdb
+C:\Users\Andew\Documents\File Cryptor\FileCrypt_lite\bin\Release\FileCrypt_lite.exe.config
+C:\Users\Andew\Documents\File Cryptor\FileCrypt_lite\obj\Release\FileCrypt_lite.exe
+C:\Users\Andew\Documents\File Cryptor\FileCrypt_lite\obj\Release\FileCrypt_lite.pdb
